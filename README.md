@@ -14,7 +14,8 @@
 
 ## 詳細
 [販売ページ](https://ataruno.booth.pm/items/6922285)
-ビルドガイド
+[プロジェクトページ](https://github.com/ataruno/MoooseMini/tree/main)
+[ビルドガイド](https://github.com/ataruno/MoooseMini/blob/main/build_guide/build_guide.md)
 [ZMK-Configリポジトリ](https://github.com/ataruno/zmk-MoooseMini)
 
 ## キット内容
