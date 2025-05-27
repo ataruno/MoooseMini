@@ -13,8 +13,9 @@
 ・ロック機能付きトラボ筐体
 
 ## 詳細
-販売ページ
+[販売ページ](https://ataruno.booth.pm/items/6922285)
 ビルドガイド
+[ZMK-Configリポジトリ](https://github.com/ataruno/zmk-MoooseMini)
 
 ## キット内容
 * MoooseMini基板 x 1
@@ -55,4 +56,4 @@ Special thanks to the people behind the ZMK project:
 - [Pete Johanson](https://github.com/petejohanson)  
 - [Cem Aksoylar](https://github.com/caksoylar)  
 - And all the [ZMK Contributors](https://github.com/zmkfirmware/zmk/graphs/contributors)
-- 
+
