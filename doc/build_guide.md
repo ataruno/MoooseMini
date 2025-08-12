@@ -8,9 +8,11 @@
   6.電源スイッチカバー  
 
 ![](./build_guide_image/01_構成/セット内容.jpg)
+
 ### 基板(キットに含まれます)
 * MoooseMini基板 x 1
 * トラックボールセンサ(PMW3610+光学レンズ)＆周辺部品
+* 
 ![](./build_guide_image/01_構成/MoooseMini基板.jpg)
 
 光学センサや周辺部品ははんだ付け済みです。  
