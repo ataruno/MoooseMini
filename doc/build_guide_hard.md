@@ -42,7 +42,7 @@ Booth購入画面のオプションでキットに含むか選択ください。
 | ホットスワップ(MX用)        | 最大8個         | https://shop.yushakobo.jp/products/a01ps?variant=37665172521121 |
 | キースイッチ(MX互換)        | 最大8個            | ※ロープロファイルは未対応です。 |
 | ロータリーエンコーダ<br>(軸形状:Dカット、高さ20mm or 22.5mm)  | 任意            | https://shop.yushakobo.jp/products/3762?variant=42672275292391 |
-| リチウムイオンバッテリ<br>(※無線にする際の構成例)<br>22mm(横) x 40mm(縦) x 8.4mm(厚さ)より一回り小さいもの| 1個            | 以下は入ること確認済みです。<br>・EEMBリチウムポリマー電池 3.7V 300 mAh<br>https://www.amazon.co.jp/dp/B09DPPP8ZV?ref_=chk_typ_imgToDp<br>・EEMB リチウムポリマーバッテリー 3.7V 250mAh<br>https://www.amazon.co.jp/dp/B08FD3V6TF?psc=1&smid=A6AC39XNLAVZ4&ref_=chk_typ_imgToDp |
+| リチウムイオンバッテリ<br>(※無線にする際の構成例)<br>21.8mm(横) x 40mm(縦) x 8.4mm(厚さ)より一回り小さいもの| 1個            | 以下は入ること確認済みです。<br>・EEMBリチウムポリマー電池 3.7V 300 mAh<br>https://www.amazon.co.jp/dp/B09DPPP8ZV?ref_=chk_typ_imgToDp<br>・EEMB リチウムポリマーバッテリー 3.7V 250mAh<br>https://www.amazon.co.jp/dp/B08FD3V6TF?psc=1&smid=A6AC39XNLAVZ4&ref_=chk_typ_imgToDp |
 
 ### ケース(キットに含まれます)
   1.ケースメイン部  
