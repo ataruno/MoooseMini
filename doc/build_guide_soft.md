@@ -87,7 +87,8 @@ ZMK studioでの設定を横に乗せています。
 
 各レイヤーの設定一つ一つは説明しませんが、プログラムのスクショを参考に貼っておきます。  
 大丈夫です。読み解けます。  
-![](build_guide_soft/ZMK09.png)
+![](build_guide_soft/ZMK09.png)  
+
 defualt_layer...レイヤー0  
 UPPER...レイヤー1  
 MID...レイヤー2  
